@@ -1,7 +1,7 @@
 {
   "name": "html-fixer",
   "version": "1.0.0",
-  "description": "html-fixer is the tool you need to find errors in your html and improperly closed tags.",
+  "description": "NodeJS command line tool for check html files and detect improperly closed tags.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
