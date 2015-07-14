@@ -20,3 +20,5 @@ html-fixer -d "my/html/directory"
 <p style="text-align: center">
   <img src="img/output.png" />
 </p>
+
+See it on [NPM](https://www.npmjs.com/package/html-fixer)
