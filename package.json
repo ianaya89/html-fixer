@@ -1,0 +1,19 @@
+{
+  "name": "html-fixer",
+  "version": "1.0.0",
+  "description": "html-fixer is the tool you need to find errors in your html and improperly closed tags.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "fixer"
+  ],
+  "author": "Ignacio Anaya <ignacio.anaya89@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.8.1"
+  }
+}
