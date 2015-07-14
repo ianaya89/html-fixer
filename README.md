@@ -5,7 +5,7 @@ NodeJS command line tool for check html files and detect improperly closed tags.
 
 Open your terminal and type: 
 ```
-npm install -g html-fixer
+npm install html-fixer -g
 ```
 
 ### Usage
@@ -18,5 +18,5 @@ html-fixer -d "my/html/directory"
 ### Output
 
 <p style="text-align: center">
-  <img src="src/output.png" />
+  <img src="img/output.png" />
 </p>

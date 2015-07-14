@@ -1,8 +1,9 @@
 {
   "name": "html-fixer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "NodeJS command line tool for check html files and detect improperly closed tags.",
-  "main": "app.js",
+  "main": "./lib/html-fixer",
+  "repository": "https://github.com/ianaya89/html-fixer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +12,16 @@
     "fixer"
   ],
   "author": "Ignacio Anaya <ignacio.anaya89@gmail.com>",
-  "license": "MIT",
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+  }],  
   "dependencies": {
     "colors": "^1.1.2",
     "commander": "^2.8.1"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "html-fixer": "./bin/html-fixer"
   }
 }
