@@ -1,6 +1,8 @@
 # html-fixer
 NodeJS command line tool for check html files and detect improperly closed tags.
 
+<img src='https://david-dm.org/ianaya89/html-fixer.svg'/>
+
 ### Installation 
 
 Open your terminal and type: 
