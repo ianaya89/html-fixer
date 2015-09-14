@@ -2,6 +2,7 @@
 NodeJS command line tool for check html files and detect improperly closed tags.
 
 <img src='https://david-dm.org/ianaya89/html-fixer.svg'/>
+[![npm version](https://badge.fury.io/js/html-fixer.svg)](http://badge.fury.io/js/html-fixer)
 
 ### Installation 
 
